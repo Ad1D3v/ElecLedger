@@ -1,0 +1,11 @@
+{
+  "registrarDistinguishedName": "Navi Mumbai Municipality Registrar",
+  "registrarOrg": "Navi Mumbai Org",
+  "registrarLocality": "Mumbai",
+  "registrarState": "Maharashtra",
+  "registrarCountry": "India",
+  "registrarPrecinctNums": [1,2,3],
+  "electionName": "2020 Maharashtra Legislative Assembly Election",
+  "electionCountry": "India",
+  "electionYear": 2020
+}
