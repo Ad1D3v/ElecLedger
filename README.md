@@ -1,7 +1,7 @@
 # ElecLedger
 ElecLedger is a blockchain based electronic voting system. This project represents an effort to leverage benefits of blockchain such as cryptographic foundations and transparency to achieve an effective scheme for e-voting. The proposed scheme conforms to the fundamental requirements for e-voting schemes and achieves end-to-end verifiability. The project utilizes a blockchain system based on Kubernetes cluster connected via IBM blockchain platform.
 
-## Prerequisites:
+## Prerequisites
 IBM Blockchain Platform <br />
 IBM Cloud Kubernetes Service <br />
 Node.js 10.13.0 <br />
